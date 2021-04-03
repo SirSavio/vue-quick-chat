@@ -157,7 +157,7 @@
     }
 </script>
 
-<style lang="less">
+<style>
     .quick-chat-container .container-message-display {
         flex: 1;
         overflow-y: scroll;

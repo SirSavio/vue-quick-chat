@@ -222,7 +222,7 @@
     }
 </script>
 
-<style lang="less">
+<style>
     .quick-chat-container {
         display: flex;
         width: 100%;

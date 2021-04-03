@@ -128,7 +128,7 @@
     }
 </script>
 
-<style lang="less">
+<style>
     .quick-chat-container .container-message-manager {
         height: 65px;
         background: #fff;

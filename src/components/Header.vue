@@ -80,7 +80,7 @@
     }
 </script>
 
-<style lang="less">
+<style>
     .quick-chat-container .header-container {
         height: 70px;
         display: flex;

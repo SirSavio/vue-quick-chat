@@ -90,7 +90,7 @@
     }
 </script>
 
-<style lang="less">
+<style>
     .container-message-display .other-message-body{
         display: flex;
         align-items: flex-end;

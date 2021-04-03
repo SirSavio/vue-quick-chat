@@ -1,9 +1,7 @@
-import Vue from 'vue'
+import { createApp } from 'vue'
 import App from './App.vue'
-Vue.config.productionTip = false
 
-new Vue({
-  render: h => h(App)
-}).$mount('#app')
+const app = createApp(App);
 
-export { default as Chat } from './components/Chat.vue';
+export { default as Chat }
+from './components/Chat.vue';
